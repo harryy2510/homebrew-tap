@@ -5,7 +5,7 @@ cask "ferry" do
   url "https://release.utilities.studio/ferry/v#{version}/Ferry_#{version}_universal.dmg"
   name "Ferry"
   desc "Open local apps on your Wi-Fi, a quick public link or your own domain"
-  homepage "https://release.utilities.studio/ferry/index.html"
+  homepage "https://utilities.studio/ferry"
 
   livecheck do
     url "https://release.utilities.studio/ferry/latest.json"
