@@ -1,6 +1,6 @@
 cask "caffienated" do
-  version "0.2.0"
-  sha256 "1acc98725d91638b1d35074b6a69db56a89d3aa7ae9195a169802ad1ebf3e4ae"
+  version "0.3.0"
+  sha256 "0111717fccf6bafb5cdc53e70a2cd66516c3fbbee96ca8eadf23f54fffdd912e"
 
   url "https://release.utilities.studio/caffienated/v#{version}/Caffienated_#{version}_universal.dmg"
   name "Caffienated"
