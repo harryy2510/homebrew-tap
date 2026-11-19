@@ -1,6 +1,6 @@
 cask "ferry" do
-  version "0.2.0"
-  sha256 "bf4fb463c9a54022f5d683d1a0e99edfa7a34769833c06f04e60e47a6070d62c"
+  version "0.3.0"
+  sha256 "08caba53517c0acef9b24b06fccb3b30ad232bbbc0cb8238f708e5d04b0055e7"
 
   url "https://release.utilities.studio/ferry/v#{version}/Ferry_#{version}_universal.dmg"
   name "Ferry"
